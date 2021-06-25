@@ -1,0 +1,10 @@
+import java.com.aiegle
+import sina.com
+public class main()
+{
+  int i;
+  public string geti()
+  {
+    return i.toString();
+  }
+}
